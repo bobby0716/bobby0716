@@ -1,4 +1,4 @@
-# Hi there, I'm Bobby Goswami! 
+# Hi there, I'm Boby Goswami! 
 
 # Aspiring Data Scientist | Python Developer | Machine Learning Enthusiast
 
