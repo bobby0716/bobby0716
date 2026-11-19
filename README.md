@@ -8,18 +8,18 @@ I'm continuously learning and exploring technologies to solve real-world problem
 
 ---
 
-# 🚀 About Me
+#  About Me
 
-- 🎓 B.Tech CSE (Data Science) Student
-- 🐍 Interested in Python Development and Machine Learning
-- 📊 Exploring Data Analytics and Data Visualization
-- 🤖 Learning Artificial Intelligence and Data Science
-- 💻 Building practical projects to improve my skills
-- 🌱 Currently improving my DSA and Machine Learning knowledge
+-  B.Tech CSE (Data Science) Student
+-  Interested in Python Development and Machine Learning
+-  Exploring Data Analytics and Data Visualization
+-  Learning Artificial Intelligence and Data Science
+-  Building practical projects to improve my skills
+-  Currently improving my DSA and Machine Learning knowledge
 
 ---
 
-### 🛠️ Technical Skills
+###  Technical Skills
 
 **Programming Languages**
 - Python
@@ -44,7 +44,7 @@ I'm continuously learning and exploring technologies to solve real-world problem
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 🔹 **FinSight AI**  
 A stock market analysis and prediction project focused on analysing historical stock data and exploring machine learning for market trend prediction.  
@@ -68,7 +68,7 @@ An intelligent Tic-Tac-Toe game implementing the Minimax algorithm to make strat
 
 ---
 
-### 🎯 Current Goals
+###  Current Goals
 
 - Strengthen Data Structures and Algorithms using Python.
 - Develop advanced Machine Learning projects.
@@ -78,8 +78,8 @@ An intelligent Tic-Tac-Toe game implementing the Minimax algorithm to make strat
 
 ---
 
-### 📫 Connect With Me
+###  Connect With Me
 
 - GitHub: https://github.com/bobby0716
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
