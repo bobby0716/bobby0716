@@ -44,17 +44,27 @@ I'm continuously learning and exploring technologies to solve real-world problem
 
 ---
 
-### 📂 Featured Projects
+## 🚀 Featured Projects
 
-| Projects                             | Description                                              Technologies
+🔹 **FinSight AI**  
+A stock market analysis and prediction project focused on analysing historical stock data and exploring machine learning for market trend prediction.  
+`Python` `Machine Learning` `MySQL` `Streamlit`
 
-| FinSight AI                         | Stock market analysis and prediction                      |  Python, ML, MySQL 
-| Inventory Management System         | Inventory tracking and management application             | Python, SQLite, Tkinter 
-| Car Price Prediction                | Machine learning-based price prediction                   | Python, Scikit-learn 
-| Music Recommendation System         | Music recommendation application                          | Python, ML 
-| AI Tic-Tac-Toe                      | AI game using the Minimax algorithm                       | Python 
+🔹 **Inventory Management System**  
+A desktop-based application for managing inventory, tracking stock movements, handling user authentication, and maintaining database backups.  
+`Python` `SQLite` `Tkinter` `Pytest`
 
-More projects coming soon!
+🔹 **Car Price Prediction**  
+A machine learning project that predicts car prices using historical data and regression techniques.  
+`Python` `Pandas` `Scikit-learn`
+
+🔹 **Music Recommendation System**  
+A recommendation-based application designed to suggest music based on user preferences and data patterns.  
+`Python` `Machine Learning`
+
+🔹 **AI Tic-Tac-Toe**  
+An intelligent Tic-Tac-Toe game implementing the Minimax algorithm to make strategic decisions.  
+`Python` `Artificial Intelligence` `Minimax`
 
 ---
 
