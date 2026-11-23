@@ -44,27 +44,31 @@ I'm continuously learning and exploring technologies to solve real-world problem
 
 ---
 
-##  Featured Projects
+### 🚀 Featured Projects
 
-🔹 **FinSight AI**  
-A stock market analysis and prediction project focused on analysing historical stock data and exploring machine learning for market trend prediction.  
-`Python` `Machine Learning` `MySQL` `Streamlit`
+🔹 ChurnGuard AI
+A dynamic customer churn prediction and monitoring system designed to score real-time customer risk, track historical prediction audits, govern automated model retraining, and deliver business analytics via an operational web UI and executive Power BI dashboard.
+Python Machine Learning MySQL Scikit-learn Streamlit FastAPI Power BI
 
-🔹 **Inventory Management System**  
-A desktop-based application for managing inventory, tracking stock movements, handling user authentication, and maintaining database backups.  
-`Python` `SQLite` `Tkinter` `Pytest`
+🔹 FinSight AI
+A stock market analysis and prediction project focused on analysing historical stock data and exploring machine learning for market trend prediction.
+Python Machine Learning MySQL Streamlit
 
-🔹 **Car Price Prediction**  
-A machine learning project that predicts car prices using historical data and regression techniques.  
-`Python` `Pandas` `Scikit-learn`
+🔹 Inventory Management System
+A desktop-based application for managing inventory, tracking stock movements, handling user authentication, and maintaining database backups.
+Python SQLite Tkinter Pytest
 
-🔹 **Music Recommendation System**  
-A recommendation-based application designed to suggest music based on user preferences and data patterns.  
-`Python` `Machine Learning`
+🔹 Car Price Prediction
+A machine learning project that predicts car prices using historical data and regression techniques.
+Python Pandas Scikit-learn
 
-🔹 **AI Tic-Tac-Toe**  
-An intelligent Tic-Tac-Toe game implementing the Minimax algorithm to make strategic decisions.  
-`Python` `Artificial Intelligence` `Minimax`
+🔹 Music Recommendation System
+A recommendation-based application designed to suggest music based on user preferences and data patterns.
+Python Machine Learning
+
+🔹 AI Tic-Tac-Toe
+An intelligent Tic-Tac-Toe game implementing the Minimax algorithm to make strategic decisions.
+Python Artificial Intelligence Minimax
 
 ---
 
