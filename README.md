@@ -44,7 +44,7 @@ I'm continuously learning and exploring technologies to solve real-world problem
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 🔹 ChurnGuard AI
 A dynamic customer churn prediction and monitoring system designed to score real-time customer risk, track historical prediction audits, govern automated model retraining, and deliver business analytics via an operational web UI and executive Power BI dashboard.
